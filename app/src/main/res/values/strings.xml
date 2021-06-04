@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="app_name">UTS_10118060_Permai</string>
+
+    //Headings
+    <string name="heading_one">Create By</string>
+    <string name="heading_two">About This Apps</string>
+    <string name="heading_three">Menu in This Apps</string>
+    <string name="heading_fourth">This Apps For</string>
+
+    //Description
+    <string name="desc_one">10118060 - Permai Ramadhan - IF2</string>
+    <string name="desc_two">This application contains my biodata, and I made it as interesting as possible so that those who saw it could be interested in the application that I made.</string>
+    <string name="desc_three">Home , Daily Activity, Gallery, Music Favorite, Profile</string>
+    <string name="desc_fourth">UTS AKB PROJECT - MYSELF APPS</string>
+    <string name="title_activity_findme">Map</string>
+
+</resources>

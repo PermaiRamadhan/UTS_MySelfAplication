@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/dialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:gravity="center"
+        android:text="Assalamualaikum wr.wb
+Dengan ini saya yang bernama Permai Ramadhan berterima kasih yang sebesar-besarnya kepada Allah SWT yang telah memberikan saya kesehatan dan kesempatan untuk mengerjakan tugas ini, serta tak lupa pula berterima kasih kepada Dosen Mata kuliah Aplikasi Komputasi Bergerak yaitu pak Rizki Adam Kurniawan yang telah memberikan materi dan pengajaran sehingga saya bisa memahami dan mendalami tentang aplikasi yang saya buat ini.
+Wasalamualaikum wr.wb
+Aplikasi version 1.0"
+        android:textSize="16sp" />
+
+    <Button
+        android:id="@+id/ok"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/dialog"
+        android:layout_alignRight="@+id/dialog"
+        android:layout_below="@+id/dialog"
+        android:text="OK" />
+
+</RelativeLayout>
